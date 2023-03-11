@@ -1,0 +1,6 @@
+- Autenticação do usuário
+- Criação de token e refreshToken para a autenticação
+- Movimentação entre as páginas (podendo bloquear acesso caso não esteja logado)
+- Falha que podem ocorrer nas autenticações
+- Administrar permissões e cargas no sistema de autenticação
+- Deslogar outras abas caso você se deslogue em uma
